@@ -1,0 +1,377 @@
+{"id":1,"zip":"86502","city":"Chambers","state":"AZ","lat":35.2375,"lon":-109.523}
+{"id":2,"zip":"86514","city":"Teec Nos Pos","state":"AZ","lat":36.7797,"lon":-109.359}
+{"id":3,"zip":"85602","city":"Benson","state":"AZ","lat":31.9883,"lon":-110.2941}
+{"id":4,"zip":"86011","city":"Flagstaff","state":"AZ","lat":35.6308,"lon":-112.0524}
+{"id":5,"zip":"86016","city":"Gray Mountain","state":"AZ","lat":35.6308,"lon":-112.0524}
+{"id":6,"zip":"86018","city":"Parks","state":"AZ","lat":35.2563,"lon":-111.95}
+{"id":7,"zip":"86336","city":"Sedona","state":"AZ","lat":34.8266,"lon":-111.7506}
+{"id":8,"zip":"85547","city":"Payson","state":"AZ","lat":34.2575,"lon":-111.2878}
+{"id":9,"zip":"85548","city":"Safford","state":"AZ","lat":32.797,"lon":-109.7522}
+{"id":10,"zip":"85533","city":"Clifton","state":"AZ","lat":33.1323,"lon":-109.2462}
+{"id":11,"zip":"85922","city":"Blue","state":"AZ","lat":33.6512,"lon":-109.0685}
+{"id":12,"zip":"85075","city":"Phoenix","state":"AZ","lat":33.2765,"lon":-112.1872}
+{"id":13,"zip":"85202","city":"Mesa","state":"AZ","lat":33.3851,"lon":-111.8724}
+{"id":14,"zip":"85254","city":"Scottsdale","state":"AZ","lat":33.6165,"lon":-111.9554}
+{"id":15,"zip":"85255","city":"Scottsdale","state":"AZ","lat":33.6968,"lon":-111.8892}
+{"id":16,"zip":"85320","city":"Aguila","state":"AZ","lat":33.2765,"lon":-112.1872}
+{"id":17,"zip":"85339","city":"Laveen","state":"AZ","lat":33.3436,"lon":-112.1716}
+{"id":18,"zip":"85381","city":"Peoria","state":"AZ","lat":33.6048,"lon":-112.2237}
+{"id":19,"zip":"86430","city":"Bullhead City","state":"AZ","lat":35.1473,"lon":-114.5433}
+{"id":20,"zip":"86434","city":"Peach Springs","state":"AZ","lat":35.5378,"lon":-113.4202}
+{"id":21,"zip":"86437","city":"Valentine","state":"AZ","lat":35.6053,"lon":-113.6427}
+{"id":22,"zip":"86444","city":"Meadview","state":"AZ","lat":35.9822,"lon":-114.0775}
+{"id":23,"zip":"86520","city":"Blue Gap","state":"AZ","lat":35.2857,"lon":-110.2887}
+{"id":24,"zip":"85601","city":"Arivaca","state":"AZ","lat":31.9701,"lon":-111.8907}
+{"id":25,"zip":"85705","city":"Tucson","state":"AZ","lat":32.2691,"lon":-110.9845}
+{"id":26,"zip":"85719","city":"Tucson","state":"AZ","lat":32.2474,"lon":-110.9491}
+{"id":27,"zip":"85737","city":"Tucson","state":"AZ","lat":32.4352,"lon":-110.9845}
+{"id":28,"zip":"85739","city":"Tucson","state":"AZ","lat":32.465,"lon":-110.8922}
+{"id":29,"zip":"85218","city":"Apache Junction","state":"AZ","lat":33.3656,"lon":-111.4487}
+{"id":30,"zip":"86325","city":"Cornville","state":"AZ","lat":34.7256,"lon":-111.9086}
+{"id":31,"zip":"86335","city":"Rimrock","state":"AZ","lat":34.638,"lon":-111.7842}
+{"id":32,"zip":"85293","city":"Casa Grande","state":"AZ","lat":32.8554,"lon":-111.7973}
+{"id":33,"zip":"85298","city":"Gilbert","state":"AZ","lat":33.2522,"lon":-111.7022}
+{"id":34,"zip":"94623","city":"Oakland","state":"CA","lat":37.6802,"lon":-121.9215}
+{"id":35,"zip":"94701","city":"Berkeley","state":"CA","lat":37.8606,"lon":-122.2967}
+{"id":36,"zip":"95642","city":"Jackson","state":"CA","lat":38.3545,"lon":-120.7573}
+{"id":37,"zip":"95675","city":"River Pines","state":"CA","lat":38.5463,"lon":-120.743}
+{"id":38,"zip":"95928","city":"Chico","state":"CA","lat":39.7224,"lon":-121.8113}
+{"id":39,"zip":"94529","city":"Concord","state":"CA","lat":37.7772,"lon":-121.9554}
+{"id":40,"zip":"94801","city":"Richmond","state":"CA","lat":37.94,"lon":-122.362}
+{"id":41,"zip":"95531","city":"Crescent City","state":"CA","lat":41.7817,"lon":-124.1332}
+{"id":42,"zip":"95635","city":"Greenwood","state":"CA","lat":38.9143,"lon":-120.9001}
+{"id":43,"zip":"93242","city":"Laton","state":"CA","lat":36.4378,"lon":-119.7156}
+{"id":44,"zip":"93706","city":"Fresno","state":"CA","lat":36.6486,"lon":-119.9987}
+{"id":45,"zip":"93750","city":"Fresno","state":"CA","lat":36.7464,"lon":-119.6397}
+{"id":46,"zip":"92283","city":"Winterhaven","state":"CA","lat":32.9818,"lon":-114.6854}
+{"id":47,"zip":"93505","city":"California City","state":"CA","lat":35.1278,"lon":-117.9651}
+{"id":48,"zip":"93212","city":"Corcoran","state":"CA","lat":36.0865,"lon":-119.5607}
+{"id":49,"zip":"95424","city":"Clearlake Park","state":"CA","lat":38.9666,"lon":-122.65}
+{"id":50,"zip":"95426","city":"Cobb","state":"CA","lat":38.8155,"lon":-122.7132}
+{"id":51,"zip":"95435","city":"Finley","state":"CA","lat":38.9639,"lon":-122.9009}
+{"id":52,"zip":"95453","city":"Lakeport","state":"CA","lat":39.047,"lon":-122.9328}
+{"id":53,"zip":"95493","city":"Witter Springs","state":"CA","lat":39.1821,"lon":-122.971}
+{"id":54,"zip":"96068","city":"Nubieber","state":"CA","lat":41.13,"lon":-121.1342}
+{"id":55,"zip":"90001","city":"Los Angeles","state":"CA","lat":33.9731,"lon":-118.2479}
+{"id":56,"zip":"90002","city":"Los Angeles","state":"CA","lat":33.9497,"lon":-118.2462}
+{"id":57,"zip":"90003","city":"Los Angeles","state":"CA","lat":33.9653,"lon":-118.2727}
+{"id":58,"zip":"90007","city":"Los Angeles","state":"CA","lat":34.0294,"lon":-118.2871}
+{"id":59,"zip":"90009","city":"Los Angeles","state":"CA","lat":33.7866,"lon":-118.2987}
+{"id":60,"zip":"90011","city":"Los Angeles","state":"CA","lat":34.0079,"lon":-118.2582}
+{"id":61,"zip":"90015","city":"Los Angeles","state":"CA","lat":34.0434,"lon":-118.2716}
+{"id":62,"zip":"90016","city":"Los Angeles","state":"CA","lat":34.0298,"lon":-118.3528}
+{"id":63,"zip":"90018","city":"Los Angeles","state":"CA","lat":34.029,"lon":-118.3152}
+{"id":64,"zip":"90021","city":"Los Angeles","state":"CA","lat":34.0333,"lon":-118.2447}
+{"id":65,"zip":"90024","city":"Los Angeles","state":"CA","lat":34.0637,"lon":-118.4408}
+{"id":66,"zip":"90025","city":"Los Angeles","state":"CA","lat":34.0447,"lon":-118.4487}
+{"id":67,"zip":"90039","city":"Los Angeles","state":"CA","lat":34.1121,"lon":-118.2594}
+{"id":68,"zip":"90043","city":"Los Angeles","state":"CA","lat":33.9871,"lon":-118.3321}
+{"id":69,"zip":"90054","city":"Los Angeles","state":"CA","lat":33.7866,"lon":-118.2987}
+{"id":70,"zip":"90059","city":"Los Angeles","state":"CA","lat":33.9293,"lon":-118.2463}
+{"id":71,"zip":"90066","city":"Los Angeles","state":"CA","lat":34.003,"lon":-118.4298}
+{"id":72,"zip":"90073","city":"Los Angeles","state":"CA","lat":33.7866,"lon":-118.2987}
+{"id":73,"zip":"90079","city":"Los Angeles","state":"CA","lat":33.7866,"lon":-118.2987}
+{"id":74,"zip":"90080","city":"Los Angeles","state":"CA","lat":33.7866,"lon":-118.2987}
+{"id":75,"zip":"90084","city":"Los Angeles","state":"CA","lat":33.7866,"lon":-118.2987}
+{"id":76,"zip":"90095","city":"Los Angeles","state":"CA","lat":33.7866,"lon":-118.2987}
+{"id":77,"zip":"90223","city":"Compton","state":"CA","lat":33.7866,"lon":-118.2987}
+{"id":78,"zip":"90232","city":"Culver City","state":"CA","lat":34.0168,"lon":-118.3973}
+{"id":79,"zip":"90250","city":"Hawthorne","state":"CA","lat":33.7866,"lon":-118.2987}
+{"id":80,"zip":"90290","city":"Topanga","state":"CA","lat":34.1076,"lon":-118.6023}
+{"id":81,"zip":"90312","city":"Inglewood","state":"CA","lat":33.7866,"lon":-118.2987}
+{"id":82,"zip":"90510","city":"Torrance","state":"CA","lat":33.7866,"lon":-118.2987}
+{"id":83,"zip":"90601","city":"Whittier","state":"CA","lat":34.0011,"lon":-118.0371}
+{"id":84,"zip":"90605","city":"Whittier","state":"CA","lat":33.9413,"lon":-118.0356}
+{"id":85,"zip":"90608","city":"Whittier","state":"CA","lat":33.7866,"lon":-118.2987}
+{"id":86,"zip":"90650","city":"Norwalk","state":"CA","lat":33.9056,"lon":-118.0818}
+{"id":87,"zip":"90659","city":"Norwalk","state":"CA","lat":33.7866,"lon":-118.2987}
+{"id":88,"zip":"90671","city":"Santa Fe Springs","state":"CA","lat":33.7866,"lon":-118.2987}
+{"id":89,"zip":"90815","city":"Long Beach","state":"CA","lat":33.7939,"lon":-118.1192}
+{"id":90,"zip":"90833","city":"Long Beach","state":"CA","lat":33.7678,"lon":-118.1994}
+{"id":91,"zip":"91185","city":"Pasadena","state":"CA","lat":33.7866,"lon":-118.2987}
+{"id":92,"zip":"91204","city":"Glendale","state":"CA","lat":34.1379,"lon":-118.2599}
+{"id":93,"zip":"91208","city":"Glendale","state":"CA","lat":34.1921,"lon":-118.235}
+{"id":94,"zip":"91301","city":"Agoura Hills","state":"CA","lat":33.7866,"lon":-118.2987}
+{"id":95,"zip":"91311","city":"Chatsworth","state":"CA","lat":34.2583,"lon":-118.5914}
+{"id":96,"zip":"91330","city":"Northridge","state":"CA","lat":33.7866,"lon":-118.2987}
+{"id":97,"zip":"91351","city":"Canyon Country","state":"CA","lat":34.4262,"lon":-118.449}
+{"id":98,"zip":"91352","city":"Sun Valley","state":"CA","lat":34.2209,"lon":-118.3699}
+{"id":99,"zip":"91355","city":"Valencia","state":"CA","lat":34.3985,"lon":-118.5535}
+{"id":100,"zip":"91504","city":"Burbank","state":"CA","lat":34.2001,"lon":-118.3264}
+{"id":101,"zip":"91506","city":"Burbank","state":"CA","lat":34.1717,"lon":-118.3231}
+{"id":102,"zip":"91801","city":"Alhambra","state":"CA","lat":34.0914,"lon":-118.1293}
+{"id":103,"zip":"94979","city":"San Anselmo","state":"CA","lat":38.068,"lon":-122.741}
+{"id":104,"zip":"95338","city":"Mariposa","state":"CA","lat":37.4931,"lon":-119.9219}
+{"id":105,"zip":"95494","city":"Yorkville","state":"CA","lat":38.9235,"lon":-123.2973}
+{"id":106,"zip":"95303","city":"Ballico","state":"CA","lat":37.4548,"lon":-120.6931}
+{"id":107,"zip":"96104","city":"Cedarville","state":"CA","lat":41.4759,"lon":-120.1516}
+{"id":108,"zip":"93930","city":"King City","state":"CA","lat":36.2028,"lon":-121.1273}
+{"id":109,"zip":"95004","city":"Aromas","state":"CA","lat":36.8769,"lon":-121.6324}
+{"id":110,"zip":"95712","city":"Chicago Park","state":"CA","lat":39.143,"lon":-120.9666}
+{"id":111,"zip":"90621","city":"Buena Park","state":"CA","lat":33.8772,"lon":-117.9893}
+{"id":112,"zip":"92606","city":"Irvine","state":"CA","lat":33.6951,"lon":-117.8224}
+{"id":113,"zip":"92620","city":"Irvine","state":"CA","lat":33.7009,"lon":-117.7564}
+{"id":114,"zip":"92708","city":"Fountain Valley","state":"CA","lat":33.7102,"lon":-117.9503}
+{"id":115,"zip":"92710","city":"Irvine","state":"CA","lat":33.7074,"lon":-117.8403}
+{"id":116,"zip":"92817","city":"Anaheim","state":"CA","lat":33.8512,"lon":-117.7915}
+{"id":117,"zip":"92821","city":"Brea","state":"CA","lat":33.9291,"lon":-117.8845}
+{"id":118,"zip":"95650","city":"Loomis","state":"CA","lat":38.8071,"lon":-121.1698}
+{"id":119,"zip":"95663","city":"Penryn","state":"CA","lat":38.8567,"lon":-121.1791}
+{"id":120,"zip":"95701","city":"Alta","state":"CA","lat":39.2441,"lon":-120.7531}
+{"id":121,"zip":"95915","city":"Belden","state":"CA","lat":39.9324,"lon":-121.3144}
+{"id":122,"zip":"92230","city":"Cabazon","state":"CA","lat":33.9086,"lon":-116.7739}
+{"id":123,"zip":"92264","city":"Palm Springs","state":"CA","lat":33.8018,"lon":-116.517}
+{"id":124,"zip":"92549","city":"Idyllwild","state":"CA","lat":33.7304,"lon":-116.7107}
+{"id":125,"zip":"92582","city":"San Jacinto","state":"CA","lat":33.7883,"lon":-116.9819}
+{"id":126,"zip":"94237","city":"Sacramento","state":"CA","lat":38.3774,"lon":-121.4444}
+{"id":127,"zip":"94261","city":"Sacramento","state":"CA","lat":38.3774,"lon":-121.4444}
+{"id":128,"zip":"95615","city":"Courtland","state":"CA","lat":38.3137,"lon":-121.563}
+{"id":129,"zip":"95641","city":"Isleton","state":"CA","lat":38.157,"lon":-121.6066}
+{"id":130,"zip":"95660","city":"North Highlands","state":"CA","lat":38.6707,"lon":-121.3781}
+{"id":131,"zip":"95821","city":"Sacramento","state":"CA","lat":38.6239,"lon":-121.3837}
+{"id":132,"zip":"95842","city":"Sacramento","state":"CA","lat":38.6865,"lon":-121.3494}
+{"id":133,"zip":"91786","city":"Upland","state":"CA","lat":34.1144,"lon":-117.6583}
+{"id":134,"zip":"92285","city":"Landers","state":"CA","lat":34.3103,"lon":-116.5241}
+{"id":135,"zip":"92307","city":"Apple Valley","state":"CA","lat":34.5291,"lon":-117.2132}
+{"id":136,"zip":"92334","city":"Fontana","state":"CA","lat":34.84,"lon":-115.9671}
+{"id":137,"zip":"92335","city":"Fontana","state":"CA","lat":34.0794,"lon":-117.4551}
+{"id":138,"zip":"92363","city":"Needles","state":"CA","lat":34.7824,"lon":-114.5871}
+{"id":139,"zip":"92413","city":"San Bernardino","state":"CA","lat":34.84,"lon":-115.9671}
+{"id":140,"zip":"91901","city":"Alpine","state":"CA","lat":32.8282,"lon":-116.7543}
+{"id":141,"zip":"92019","city":"El Cajon","state":"CA","lat":32.7777,"lon":-116.9191}
+{"id":142,"zip":"92022","city":"El Cajon","state":"CA","lat":33.0169,"lon":-116.846}
+{"id":143,"zip":"92104","city":"San Diego","state":"CA","lat":32.7454,"lon":-117.1272}
+{"id":144,"zip":"92106","city":"San Diego","state":"CA","lat":32.7272,"lon":-117.2268}
+{"id":145,"zip":"92110","city":"San Diego","state":"CA","lat":32.7635,"lon":-117.2028}
+{"id":146,"zip":"92112","city":"San Diego","state":"CA","lat":33.0169,"lon":-116.846}
+{"id":147,"zip":"92127","city":"San Diego","state":"CA","lat":33.0279,"lon":-117.0856}
+{"id":148,"zip":"92136","city":"San Diego","state":"CA","lat":32.6834,"lon":-117.1219}
+{"id":149,"zip":"92138","city":"San Diego","state":"CA","lat":33.0169,"lon":-116.846}
+{"id":150,"zip":"92152","city":"San Diego","state":"CA","lat":33.0169,"lon":-116.846}
+{"id":151,"zip":"92155","city":"San Diego","state":"CA","lat":32.6716,"lon":-117.1657}
+{"id":152,"zip":"92162","city":"San Diego","state":"CA","lat":33.0169,"lon":-116.846}
+{"id":153,"zip":"92163","city":"San Diego","state":"CA","lat":33.0169,"lon":-116.846}
+{"id":154,"zip":"92167","city":"San Diego","state":"CA","lat":33.0169,"lon":-116.846}
+{"id":155,"zip":"92169","city":"San Diego","state":"CA","lat":33.0169,"lon":-116.846}
+{"id":156,"zip":"92172","city":"San Diego","state":"CA","lat":33.0169,"lon":-116.846}
+{"id":157,"zip":"92182","city":"San Diego","state":"CA","lat":32.7751,"lon":-117.0762}
+{"id":158,"zip":"92193","city":"San Diego","state":"CA","lat":33.0169,"lon":-116.846}
+{"id":159,"zip":"92194","city":"San Diego","state":"CA","lat":33.0169,"lon":-116.846}
+{"id":160,"zip":"92199","city":"San Diego","state":"CA","lat":32.7516,"lon":-117.1918}
+{"id":161,"zip":"94105","city":"San Francisco","state":"CA","lat":37.7864,"lon":-122.3892}
+{"id":162,"zip":"94109","city":"San Francisco","state":"CA","lat":37.7917,"lon":-122.4186}
+{"id":163,"zip":"94110","city":"San Francisco","state":"CA","lat":37.7509,"lon":-122.4153}
+{"id":164,"zip":"94116","city":"San Francisco","state":"CA","lat":37.7441,"lon":-122.4863}
+{"id":165,"zip":"94120","city":"San Francisco","state":"CA","lat":37.7848,"lon":-122.7278}
+{"id":166,"zip":"94122","city":"San Francisco","state":"CA","lat":37.7593,"lon":-122.4836}
+{"id":167,"zip":"94130","city":"San Francisco","state":"CA","lat":37.8231,"lon":-122.3693}
+{"id":168,"zip":"94137","city":"San Francisco","state":"CA","lat":37.7848,"lon":-122.7278}
+{"id":169,"zip":"94138","city":"San Francisco","state":"CA","lat":37.7848,"lon":-122.7278}
+{"id":170,"zip":"94140","city":"San Francisco","state":"CA","lat":37.7848,"lon":-122.7278}
+{"id":171,"zip":"94142","city":"San Francisco","state":"CA","lat":37.7848,"lon":-122.7278}
+{"id":172,"zip":"94145","city":"San Francisco","state":"CA","lat":37.7848,"lon":-122.7278}
+{"id":173,"zip":"94150","city":"San Francisco","state":"CA","lat":37.7848,"lon":-122.7278}
+{"id":174,"zip":"94160","city":"San Francisco","state":"CA","lat":37.7848,"lon":-122.7278}
+{"id":175,"zip":"94163","city":"San Francisco","state":"CA","lat":37.7848,"lon":-122.7278}
+{"id":176,"zip":"95204","city":"Stockton","state":"CA","lat":37.9743,"lon":-121.3154}
+{"id":177,"zip":"95209","city":"Stockton","state":"CA","lat":38.0377,"lon":-121.3445}
+{"id":178,"zip":"95242","city":"Lodi","state":"CA","lat":38.1308,"lon":-121.3345}
+{"id":179,"zip":"95304","city":"Tracy","state":"CA","lat":37.7319,"lon":-121.4096}
+{"id":180,"zip":"93449","city":"Pismo Beach","state":"CA","lat":35.3917,"lon":-120.5492}
+{"id":181,"zip":"94012","city":"Burlingame","state":"CA","lat":37.3811,"lon":-122.3348}
+{"id":182,"zip":"94059","city":"Redwood City","state":"CA","lat":37.3811,"lon":-122.3348}
+{"id":183,"zip":"94061","city":"Redwood City","state":"CA","lat":37.4647,"lon":-122.2304}
+{"id":184,"zip":"94074","city":"San Gregorio","state":"CA","lat":37.3255,"lon":-122.3556}
+{"id":185,"zip":"94403","city":"San Mateo","state":"CA","lat":37.5395,"lon":-122.2998}
+{"id":186,"zip":"94409","city":"San Mateo","state":"CA","lat":37.3811,"lon":-122.3348}
+{"id":187,"zip":"93160","city":"Santa Barbara","state":"CA","lat":34.2628,"lon":-119.8486}
+{"id":188,"zip":"93190","city":"Santa Barbara","state":"CA","lat":34.2628,"lon":-119.8486}
+{"id":189,"zip":"94040","city":"Mountain View","state":"CA","lat":37.3855,"lon":-122.088}
+{"id":190,"zip":"94088","city":"Sunnyvale","state":"CA","lat":37.1894,"lon":-121.7053}
+{"id":191,"zip":"95103","city":"San Jose","state":"CA","lat":37.3378,"lon":-121.8908}
+{"id":192,"zip":"95108","city":"San Jose","state":"CA","lat":37.3378,"lon":-121.8908}
+{"id":193,"zip":"95111","city":"San Jose","state":"CA","lat":37.2827,"lon":-121.8265}
+{"id":194,"zip":"95113","city":"San Jose","state":"CA","lat":37.3329,"lon":-121.8916}
+{"id":195,"zip":"95116","city":"San Jose","state":"CA","lat":37.3518,"lon":-121.8508}
+{"id":196,"zip":"95134","city":"San Jose","state":"CA","lat":37.4087,"lon":-121.9406}
+{"id":197,"zip":"95141","city":"San Jose","state":"CA","lat":37.1705,"lon":-121.7556}
+{"id":198,"zip":"95156","city":"San Jose","state":"CA","lat":37.3576,"lon":-121.8416}
+{"id":199,"zip":"95157","city":"San Jose","state":"CA","lat":37.3008,"lon":-121.9777}
+{"id":200,"zip":"95161","city":"San Jose","state":"CA","lat":37.3894,"lon":-121.8868}
+{"id":201,"zip":"95170","city":"San Jose","state":"CA","lat":37.3103,"lon":-122.0093}
+{"id":202,"zip":"95190","city":"San Jose","state":"CA","lat":37.3894,"lon":-121.8868}
+{"id":203,"zip":"95191","city":"San Jose","state":"CA","lat":37.3262,"lon":-121.9158}
+{"id":204,"zip":"95194","city":"San Jose","state":"CA","lat":37.3894,"lon":-121.8868}
+{"id":205,"zip":"95196","city":"San Jose","state":"CA","lat":37.3338,"lon":-121.8894}
+{"id":206,"zip":"95007","city":"Brookdale","state":"CA","lat":37.1063,"lon":-122.105}
+{"id":207,"zip":"96001","city":"Redding","state":"CA","lat":40.5605,"lon":-122.4116}
+{"id":208,"zip":"96084","city":"Round Mountain","state":"CA","lat":40.7629,"lon":-122.1711}
+{"id":209,"zip":"96014","city":"Callahan","state":"CA","lat":41.3833,"lon":-122.764}
+{"id":210,"zip":"96039","city":"Happy Camp","state":"CA","lat":41.8018,"lon":-123.388}
+{"id":211,"zip":"94975","city":"Petaluma","state":"CA","lat":38.4631,"lon":-122.99}
+{"id":212,"zip":"95404","city":"Santa Rosa","state":"CA","lat":38.4534,"lon":-122.6878}
+{"id":213,"zip":"95431","city":"Eldridge","state":"CA","lat":38.3348,"lon":-122.5055}
+{"id":214,"zip":"95487","city":"Vineburg","state":"CA","lat":38.2725,"lon":-122.4375}
+{"id":215,"zip":"95351","city":"Modesto","state":"CA","lat":37.6236,"lon":-120.9966}
+{"id":216,"zip":"96074","city":"Paskenta","state":"CA","lat":39.8772,"lon":-122.5814}
+{"id":217,"zip":"93256","city":"Pixley","state":"CA","lat":35.9553,"lon":-119.2564}
+{"id":218,"zip":"95321","city":"Groveland","state":"CA","lat":37.8298,"lon":-120.1037}
+{"id":219,"zip":"93003","city":"Ventura","state":"CA","lat":34.2304,"lon":-119.2213}
+{"id":220,"zip":"93010","city":"Camarillo","state":"CA","lat":34.2313,"lon":-119.0464}
+{"id":221,"zip":"95962","city":"Oregon House","state":"CA","lat":39.3098,"lon":-121.2156}
+{"id":222,"zip":"90899","city":"Long Beach","state":"CA","lat":33.7987,"lon":-118.1634}
+{"id":223,"zip":"91199","city":"Pasadena","state":"CA","lat":34.1478,"lon":-118.1436}
+{"id":224,"zip":"91461","city":"Los Angeles","state":"CA","lat":34.2011,"lon":-118.4742}
+{"id":225,"zip":"92181","city":"National City","state":"CA","lat":32.7151,"lon":-117.1563}
+{"id":226,"zip":"92601","city":"Atwood","state":"CA","lat":33.8654,"lon":-117.83}
+{"id":227,"zip":"92634","city":"Fullerton","state":"CA","lat":33.8739,"lon":-117.9028}
+{"id":228,"zip":"92667","city":"Orange","state":"CA","lat":33.8107,"lon":-117.829}
+{"id":229,"zip":"92715","city":"Irvine","state":"CA","lat":33.6506,"lon":-117.8185}
+{"id":230,"zip":"94582","city":"San Ramon","state":"CA","lat":37.6724,"lon":-121.8891}
+{"id":231,"zip":"94622","city":"Oakland","state":"CA","lat":37.799,"lon":-122.2337}
+{"id":232,"zip":"83705","city":"Boise","state":"ID","lat":43.5851,"lon":-116.2191}
+{"id":233,"zip":"83708","city":"Boise","state":"ID","lat":43.4599,"lon":-116.244}
+{"id":234,"zip":"83722","city":"Boise","state":"ID","lat":43.4599,"lon":-116.244}
+{"id":235,"zip":"83725","city":"Boise","state":"ID","lat":43.4599,"lon":-116.244}
+{"id":236,"zip":"83731","city":"Boise","state":"ID","lat":43.4599,"lon":-116.244}
+{"id":237,"zip":"83870","city":"Tensed","state":"ID","lat":47.1707,"lon":-116.9027}
+{"id":238,"zip":"83203","city":"Fort Hall","state":"ID","lat":43.0331,"lon":-112.4285}
+{"id":239,"zip":"83804","city":"Blanchard","state":"ID","lat":48.0223,"lon":-116.9909}
+{"id":240,"zip":"83825","city":"Dover","state":"ID","lat":48.3688,"lon":-116.5455}
+{"id":241,"zip":"83856","city":"Priest River","state":"ID","lat":48.1664,"lon":-116.9066}
+{"id":242,"zip":"83415","city":"Idaho Falls","state":"ID","lat":43.3233,"lon":-111.7822}
+{"id":243,"zip":"83644","city":"Middleton","state":"ID","lat":43.7191,"lon":-116.6112}
+{"id":244,"zip":"83278","city":"Stanley","state":"ID","lat":44.3714,"lon":-114.8561}
+{"id":245,"zip":"83522","city":"Cottonwood","state":"ID","lat":46.0448,"lon":-116.3733}
+{"id":246,"zip":"83539","city":"Kooskia","state":"ID","lat":46.116,"lon":-115.9459}
+{"id":247,"zip":"83547","city":"Pollock","state":"ID","lat":45.3068,"lon":-116.3517}
+{"id":248,"zip":"83816","city":"Coeur D Alene","state":"ID","lat":47.6788,"lon":-116.6827}
+{"id":249,"zip":"83858","city":"Rathdrum","state":"ID","lat":47.8241,"lon":-116.8873}
+{"id":250,"zip":"83467","city":"Salmon","state":"ID","lat":45.1571,"lon":-113.8784}
+{"id":251,"zip":"83452","city":"Tetonia","state":"ID","lat":43.7814,"lon":-111.2118}
+{"id":252,"zip":"83334","city":"Hansen","state":"ID","lat":42.5249,"lon":-114.2994}
+{"id":253,"zip":"83638","city":"Mc Call","state":"ID","lat":44.8918,"lon":-116.0789}
+{"id":254,"zip":"89116","city":"Las Vegas","state":"NV","lat":35.9279,"lon":-114.9721}
+{"id":255,"zip":"89139","city":"Las Vegas","state":"NV","lat":36.0129,"lon":-115.2118}
+{"id":256,"zip":"89142","city":"Las Vegas","state":"NV","lat":36.148,"lon":-115.0404}
+{"id":257,"zip":"89153","city":"Las Vegas","state":"NV","lat":35.9279,"lon":-114.9721}
+{"id":258,"zip":"89173","city":"Las Vegas","state":"NV","lat":35.9279,"lon":-114.9721}
+{"id":259,"zip":"89185","city":"Las Vegas","state":"NV","lat":35.9279,"lon":-114.9721}
+{"id":260,"zip":"89705","city":"Carson City","state":"NV","lat":39.0554,"lon":-119.8059}
+{"id":261,"zip":"89414","city":"Golconda","state":"NV","lat":40.9683,"lon":-117.3349}
+{"id":262,"zip":"89043","city":"Pioche","state":"NV","lat":37.8981,"lon":-114.3968}
+{"id":263,"zip":"89505","city":"Reno","state":"NV","lat":39.5224,"lon":-119.8353}
+{"id":264,"zip":"89570","city":"Reno","state":"NV","lat":40.5412,"lon":-119.5869}
+{"id":265,"zip":"89318","city":"Mc Gill","state":"NV","lat":39.4034,"lon":-114.7791}
+{"id":266,"zip":"89002","city":"Henderson","state":"NV","lat":36.0008,"lon":-114.9588}
+{"id":267,"zip":"89157","city":"Las Vegas","state":"NV","lat":36.1695,"lon":-115.193}
+{"id":268,"zip":"97814","city":"Baker City","state":"OR","lat":44.7542,"lon":-117.7427}
+{"id":269,"zip":"97819","city":"Bridgeport","state":"OR","lat":44.4931,"lon":-117.7655}
+{"id":270,"zip":"97331","city":"Corvallis","state":"OR","lat":44.5638,"lon":-123.2779}
+{"id":271,"zip":"97028","city":"Government Camp","state":"OR","lat":45.2972,"lon":-121.739}
+{"id":272,"zip":"97038","city":"Molalla","state":"OR","lat":45.1223,"lon":-122.5756}
+{"id":273,"zip":"97045","city":"Oregon City","state":"OR","lat":45.3377,"lon":-122.57}
+{"id":274,"zip":"97268","city":"Portland","state":"OR","lat":45.1733,"lon":-122.2599}
+{"id":275,"zip":"97432","city":"Dillard","state":"OR","lat":43.1135,"lon":-123.4181}
+{"id":276,"zip":"97494","city":"Wilbur","state":"OR","lat":43.3284,"lon":-123.3332}
+{"id":277,"zip":"97817","city":"Bates","state":"OR","lat":44.4778,"lon":-118.9478}
+{"id":278,"zip":"97856","city":"Long Creek","state":"OR","lat":44.7554,"lon":-119.097}
+{"id":279,"zip":"97522","city":"Butte Falls","state":"OR","lat":42.5492,"lon":-122.5638}
+{"id":280,"zip":"97541","city":"Trail","state":"OR","lat":42.6864,"lon":-122.816}
+{"id":281,"zip":"97448","city":"Junction City","state":"OR","lat":44.1988,"lon":-123.23}
+{"id":282,"zip":"97348","city":"Halsey","state":"OR","lat":44.3862,"lon":-123.1251}
+{"id":283,"zip":"97917","city":"Riverside","state":"OR","lat":43.5099,"lon":-118.0986}
+{"id":284,"zip":"97373","city":"Saint Benedict","state":"OR","lat":44.9845,"lon":-122.457}
+{"id":285,"zip":"97010","city":"Bridal Veil","state":"OR","lat":45.583,"lon":-122.1011}
+{"id":286,"zip":"97208","city":"Portland","state":"OR","lat":45.5322,"lon":-122.5648}
+{"id":287,"zip":"97236","city":"Portland","state":"OR","lat":45.4887,"lon":-122.5091}
+{"id":288,"zip":"97254","city":"Portland","state":"OR","lat":45.5967,"lon":-122.5942}
+{"id":289,"zip":"97293","city":"Portland","state":"OR","lat":45.5806,"lon":-122.3748}
+{"id":290,"zip":"97108","city":"Beaver","state":"OR","lat":45.2767,"lon":-123.8234}
+{"id":291,"zip":"97882","city":"Umatilla","state":"OR","lat":45.8695,"lon":-118.9569}
+{"id":292,"zip":"97867","city":"North Powder","state":"OR","lat":45.0317,"lon":-117.9337}
+{"id":293,"zip":"97119","city":"Gaston","state":"OR","lat":45.4427,"lon":-123.1666}
+{"id":294,"zip":"97224","city":"Portland","state":"OR","lat":45.4094,"lon":-122.8014}
+{"id":295,"zip":"97281","city":"Portland","state":"OR","lat":45.5486,"lon":-123.1147}
+{"id":296,"zip":"84302","city":"Brigham City","state":"UT","lat":41.5079,"lon":-112.0152}
+{"id":297,"zip":"84311","city":"Fielding","state":"UT","lat":41.8118,"lon":-112.119}
+{"id":298,"zip":"84337","city":"Tremonton","state":"UT","lat":41.7016,"lon":-112.1813}
+{"id":299,"zip":"84322","city":"Logan","state":"UT","lat":41.6412,"lon":-111.8966}
+{"id":300,"zip":"84542","city":"Wellington","state":"UT","lat":39.6147,"lon":-110.6413}
+{"id":301,"zip":"84011","city":"Bountiful","state":"UT","lat":40.9635,"lon":-112.116}
+{"id":302,"zip":"84052","city":"Myton","state":"UT","lat":40.194,"lon":-110.0481}
+{"id":303,"zip":"84053","city":"Neola","state":"UT","lat":40.3207,"lon":-110.436}
+{"id":304,"zip":"84521","city":"Elmo","state":"UT","lat":39.4033,"lon":-110.81}
+{"id":305,"zip":"84648","city":"Nephi","state":"UT","lat":39.6923,"lon":-111.8359}
+{"id":306,"zip":"84762","city":"Duck Creek Village","state":"UT","lat":37.5169,"lon":-112.6636}
+{"id":307,"zip":"84038","city":"Laketown","state":"UT","lat":41.8107,"lon":-111.2689}
+{"id":308,"zip":"84101","city":"Salt Lake City","state":"UT","lat":40.7559,"lon":-111.8967}
+{"id":309,"zip":"84102","city":"Salt Lake City","state":"UT","lat":40.76,"lon":-111.8627}
+{"id":310,"zip":"84105","city":"Salt Lake City","state":"UT","lat":40.7372,"lon":-111.8581}
+{"id":311,"zip":"84106","city":"Salt Lake City","state":"UT","lat":40.7056,"lon":-111.8548}
+{"id":312,"zip":"84114","city":"Salt Lake City","state":"UT","lat":40.6681,"lon":-111.9083}
+{"id":313,"zip":"84118","city":"Salt Lake City","state":"UT","lat":40.6504,"lon":-112.0054}
+{"id":314,"zip":"84120","city":"Salt Lake City","state":"UT","lat":40.695,"lon":-112.0001}
+{"id":315,"zip":"84121","city":"Salt Lake City","state":"UT","lat":40.6226,"lon":-111.7777}
+{"id":316,"zip":"84126","city":"Salt Lake City","state":"UT","lat":40.6681,"lon":-111.9083}
+{"id":317,"zip":"84136","city":"Salt Lake City","state":"UT","lat":40.7685,"lon":-111.8879}
+{"id":318,"zip":"84152","city":"Salt Lake City","state":"UT","lat":40.7286,"lon":-111.6627}
+{"id":319,"zip":"84153","city":"Salt Lake City","state":"UT","lat":40.6681,"lon":-111.9083}
+{"id":320,"zip":"84665","city":"Sterling","state":"UT","lat":39.1335,"lon":-111.7409}
+{"id":321,"zip":"84744","city":"Koosharem","state":"UT","lat":38.7221,"lon":-111.8713}
+{"id":322,"zip":"84036","city":"Kamas","state":"UT","lat":40.6414,"lon":-111.2619}
+{"id":323,"zip":"84068","city":"Park City","state":"UT","lat":40.668,"lon":-111.5054}
+{"id":324,"zip":"84738","city":"Ivins","state":"UT","lat":37.2183,"lon":-113.5458}
+{"id":325,"zip":"84715","city":"Bicknell","state":"UT","lat":38.3278,"lon":-111.5264}
+{"id":326,"zip":"84193","city":"Salt Lake City","state":"UT","lat":40.7439,"lon":-111.8918}
+{"id":327,"zip":"99344","city":"Othello","state":"WA","lat":46.8527,"lon":-118.9932}
+{"id":328,"zip":"98604","city":"Battle Ground","state":"WA","lat":45.7907,"lon":-122.5318}
+{"id":329,"zip":"98675","city":"Yacolt","state":"WA","lat":45.8622,"lon":-122.4275}
+{"id":330,"zip":"98684","city":"Vancouver","state":"WA","lat":45.6359,"lon":-122.5155}
+{"id":331,"zip":"98609","city":"Carrolls","state":"WA","lat":46.0715,"lon":-122.8648}
+{"id":332,"zip":"99138","city":"Inchelium","state":"WA","lat":48.2924,"lon":-118.3552}
+{"id":333,"zip":"98848","city":"Quincy","state":"WA","lat":47.1976,"lon":-119.8459}
+{"id":334,"zip":"98547","city":"Grayland","state":"WA","lat":46.8264,"lon":-124.094}
+{"id":335,"zip":"98376","city":"Quilcene","state":"WA","lat":47.8324,"lon":-122.8583}
+{"id":336,"zip":"98109","city":"Seattle","state":"WA","lat":47.6339,"lon":-122.3476}
+{"id":337,"zip":"98112","city":"Seattle","state":"WA","lat":47.6301,"lon":-122.2972}
+{"id":338,"zip":"98118","city":"Seattle","state":"WA","lat":47.5412,"lon":-122.275}
+{"id":339,"zip":"98125","city":"Seattle","state":"WA","lat":47.717,"lon":-122.3015}
+{"id":340,"zip":"98136","city":"Seattle","state":"WA","lat":47.5398,"lon":-122.3878}
+{"id":341,"zip":"98145","city":"Seattle","state":"WA","lat":47.4323,"lon":-121.8034}
+{"id":342,"zip":"98148","city":"Seattle","state":"WA","lat":47.4323,"lon":-121.8034}
+{"id":343,"zip":"98150","city":"Seattle","state":"WA","lat":47.4323,"lon":-121.8034}
+{"id":344,"zip":"98168","city":"Seattle","state":"WA","lat":47.4323,"lon":-121.8034}
+{"id":345,"zip":"98177","city":"Seattle","state":"WA","lat":47.7467,"lon":-122.3686}
+{"id":346,"zip":"98181","city":"Seattle","state":"WA","lat":47.4323,"lon":-121.8034}
+{"id":347,"zip":"98191","city":"Seattle","state":"WA","lat":47.4323,"lon":-121.8034}
+{"id":348,"zip":"98199","city":"Seattle","state":"WA","lat":47.6488,"lon":-122.3964}
+{"id":349,"zip":"98224","city":"Baring","state":"WA","lat":47.7671,"lon":-121.4814}
+{"id":350,"zip":"98602","city":"Appleton","state":"WA","lat":45.8504,"lon":-121.3129}
+{"id":351,"zip":"98336","city":"Glenoma","state":"WA","lat":46.5283,"lon":-122.099}
+{"id":352,"zip":"98361","city":"Packwood","state":"WA","lat":46.65,"lon":-121.6553}
+{"id":353,"zip":"98572","city":"Pe Ell","state":"WA","lat":46.5829,"lon":-123.3147}
+{"id":354,"zip":"98591","city":"Toledo","state":"WA","lat":46.4396,"lon":-122.8266}
+{"id":355,"zip":"98844","city":"Oroville","state":"WA","lat":48.9397,"lon":-119.4032}
+{"id":356,"zip":"98577","city":"Raymond","state":"WA","lat":46.671,"lon":-123.6929}
+{"id":357,"zip":"98327","city":"Dupont","state":"WA","lat":47.0909,"lon":-122.6567}
+{"id":358,"zip":"98387","city":"Spanaway","state":"WA","lat":47.0732,"lon":-122.3943}
+{"id":359,"zip":"98409","city":"Tacoma","state":"WA","lat":47.2038,"lon":-122.4825}
+{"id":360,"zip":"98447","city":"Tacoma","state":"WA","lat":47.0662,"lon":-122.1132}
+{"id":361,"zip":"98493","city":"Tacoma","state":"WA","lat":47.0662,"lon":-122.1132}
+{"id":362,"zip":"98232","city":"Bow","state":"WA","lat":48.562,"lon":-122.4134}
+{"id":363,"zip":"98651","city":"Underwood","state":"WA","lat":45.7409,"lon":-121.5974}
+{"id":364,"zip":"98012","city":"Bothell","state":"WA","lat":47.8401,"lon":-122.1972}
+{"id":365,"zip":"98201","city":"Everett","state":"WA","lat":47.9884,"lon":-122.2006}
+{"id":366,"zip":"98293","city":"Startup","state":"WA","lat":47.8703,"lon":-121.7685}
+{"id":367,"zip":"99209","city":"Spokane","state":"WA","lat":47.6461,"lon":-117.7937}
+{"id":368,"zip":"99216","city":"Spokane","state":"WA","lat":47.6634,"lon":-117.2193}
+{"id":369,"zip":"99218","city":"Spokane","state":"WA","lat":47.7556,"lon":-117.4146}
+{"id":370,"zip":"99040","city":"Wellpinit","state":"WA","lat":47.8697,"lon":-117.9856}
+{"id":371,"zip":"98503","city":"Lacey","state":"WA","lat":47.024,"lon":-122.7827}
+{"id":372,"zip":"98516","city":"Olympia","state":"WA","lat":47.1126,"lon":-122.7794}
+{"id":373,"zip":"98225","city":"Bellingham","state":"WA","lat":48.749,"lon":-122.4887}
+{"id":374,"zip":"99104","city":"Belmont","state":"WA","lat":47.0793,"lon":-117.177}
+{"id":375,"zip":"99113","city":"Colton","state":"WA","lat":46.5901,"lon":-117.1692}
+{"id":376,"zip":"98944","city":"Sunnyside","state":"WA","lat":46.3213,"lon":-120.0126}
+{"id":377,"zip":"98170","city":"Seattle","state":"WA","lat":47.6096,"lon":-122.3317}
